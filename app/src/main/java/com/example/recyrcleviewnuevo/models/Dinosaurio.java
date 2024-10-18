@@ -1,6 +1,6 @@
 package com.example.recyrcleviewnuevo.models;
 
-public class Dinosaurio {
+public class Dinosaurio implements java.io.Serializable {
 
     private String nombre;
     private String tipo;
